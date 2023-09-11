@@ -1,0 +1,1 @@
+advskill Destruction 99999999

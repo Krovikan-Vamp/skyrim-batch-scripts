@@ -1,0 +1,1 @@
+advskill Lockpicking 99999999
